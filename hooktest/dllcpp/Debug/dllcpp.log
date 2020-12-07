@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  dllmain.cpp
+C:\Users\bob\Desktop\hooktest\dllcpp\dllmain.cpp(24,16): warning C4477: "printf": в строке форматирования "%s" требуется аргумент типа "char *", но вариативный аргумент "1" имеет тип "HWND"
+     Создается библиотека C:\Users\bob\Desktop\hooktest\Debug\dllcpp.lib и объект C:\Users\bob\Desktop\hooktest\Debug\dllcpp.exp
+  dllcpp.vcxproj -> C:\Users\bob\Desktop\hooktest\Debug\dllcpp.dll
